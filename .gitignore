@@ -1,3 +1,6 @@
+# Do not upload data folder (error when pushing.. to much data)
+dt/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
